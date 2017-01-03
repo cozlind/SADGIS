@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADGIS", "MapTest\SADGIS.csproj", "{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SADGIS Setup", "SADGIS Setup\SADGIS Setup.vdproj", "{71FBEAAC-35AB-4A1C-924E-07F8B90D413F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{1F34BE21-EAB2-4F72-ABEC-D9B27CE7B197}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{71FBEAAC-35AB-4A1C-924E-07F8B90D413F}.CD_ROM|Any CPU.ActiveCfg = Release
+		{71FBEAAC-35AB-4A1C-924E-07F8B90D413F}.Debug|Any CPU.ActiveCfg = Debug
+		{71FBEAAC-35AB-4A1C-924E-07F8B90D413F}.DVD-5|Any CPU.ActiveCfg = Debug
+		{71FBEAAC-35AB-4A1C-924E-07F8B90D413F}.Release|Any CPU.ActiveCfg = Release
+		{71FBEAAC-35AB-4A1C-924E-07F8B90D413F}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

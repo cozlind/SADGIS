@@ -1,0 +1,177 @@
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\bin\Debug\MapTest.exe.config
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\bin\Debug\MapTest.exe
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\bin\Debug\MapTest.pdb
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\bin\Debug\AxInterop.esriControls.dll
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\AxInterop.esriControls.dll
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.MainForm.resources
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.exe
+f:\temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.pdb
+f:\Temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.OptionForm.resources
+f:\Temp\Document\Visual Studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.TestForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\bin\Debug\MapTest.exe.config
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.MainForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.OptionForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.TestForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\bin\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTestForm\MapTest\bin\Debug\MapTest.pdb
+D:\Desktop\MapTest\MapTest\bin\Debug\MapTest.exe.config
+D:\Desktop\MapTest\MapTest\obj\Debug\AxInterop.esriControls.dll
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+D:\Desktop\MapTest\MapTest\bin\Debug\MapTest.exe
+D:\Desktop\MapTest\MapTest\bin\Debug\MapTest.pdb
+D:\Desktop\MapTest\MapTest\bin\Debug\AxInterop.esriControls.dll
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.MainForm.resources
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.OptionForm.resources
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.TestForm.resources
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.exe
+D:\Desktop\MapTest\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\bin\Debug\MapTest.exe.config
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\bin\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\bin\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\bin\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.MainForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.OptionForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.TestForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest2\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\MapTest.exe.config
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.MainForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.OptionForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.TestForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\ESRI.ArcGIS.ADF.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\MapTest.exe.config
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\ESRI.ArcGIS.ADF.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\bin\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.MainForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.OptionForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.TestForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest2动态\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\MapTest.exe.config
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.MainForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.OptionForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\bin\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.AnalysisForm.resources
+D:\Desktop\MapTest5\MapTest\bin\Debug\MapTest.exe.config
+D:\Desktop\MapTest5\MapTest\obj\Debug\AxInterop.esriControls.dll
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.exe
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.pdb
+D:\Desktop\MapTest5\MapTest\bin\Debug\MapTest.exe
+D:\Desktop\MapTest5\MapTest\bin\Debug\MapTest.pdb
+D:\Desktop\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+D:\Desktop\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.dll
+D:\Desktop\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.xml
+D:\Desktop\MapTest5\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+D:\Desktop\MapTest5\MapTest\bin\Debug\AxInterop.esriControls.dll
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.MainForm.resources
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.OptionForm.resources
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.AnalysisForm.resources
+D:\Desktop\MapTest5\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.StatisticForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest5\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\MapTest.exe.config
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\ESRI.ArcGIS.ADF.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.MainForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.OptionForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.AnalysisForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.StatisticForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.ChartForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.ViewForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\MapTest.exe.manifest
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\bin\Debug\MapTest.application
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.exe.manifest
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest51\MapTest\obj\Debug\MapTest.application
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\MapTest.exe.config
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.csproj.ResolveComReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\MapTest.exe.manifest
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\MapTest.application
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\MapTest.exe
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\MapTest.pdb
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\ESRI.ArcGIS.ADF.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\bin\Debug\AxInterop.esriControls.dll
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.ChartForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.MainForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.OptionForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.AnalysisForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.StatisticForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.ViewForm.resources
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.exe.manifest
+F:\Temp\Document\Visual Studio 2013\Projects\MapTest6\MapTest\obj\Debug\MapTest.application
